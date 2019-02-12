@@ -1,1 +1,1 @@
-https://jangarit.github.io/CANVASFILMS/index.html
+https://jangarit.github.io/canvasfilms/index.html
